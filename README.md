@@ -12,5 +12,3 @@ RandomForest and GradientBoosting use fixed seeds. Labels and flight IDs are exc
 from predictors. Permutation importance is computed on the held-out cohort.
 Check: `python -m unittest discover -s tests`.
 No field data, operational target identification or sensor-specific claims are included.
-
-Retrospective portfolio assembled October 29, 2026. Commit dates identify reconstructed curriculum stages, not contemporaneous work.
